@@ -1,0 +1,59 @@
+{
+  "slug": "fiestia-caterers-and-events-kochi",
+  "name": "Fiestia Caterers & Events",
+  "shortName": "Fiestia",
+  "descriptor": "Catering & Events",
+  "address": "Towards Nazerath Road, Garage Railway Gate, Near Carmel Generalate Cmc, 18/502, Nazerath Rd, Thaikkattukara, Kunnathery Thikavu, Kochi, Aluva, Keralam 683106",
+  "area": "Thaikkattukara",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683106",
+  "geo": {
+    "lat": 10.0943489,
+    "lng": 76.3501412
+  },
+  "mapsLink": "https://maps.google.com/?cid=12796396598462274153",
+  "phone": "+91 80893 64863",
+  "whatsapp": "918089364863",
+  "hours": "Open 7 am – 9 pm · all days",
+  "opens": "07:00",
+  "closes": "21:00",
+  "rating": 4.8,
+  "reviewCount": 25,
+  "reviews": [
+    {
+      "name": "Cyril Antony",
+      "rating": 5,
+      "quote": "Fiestia caterers did an amazing job for our housewarming ceremony! The food was fresh, delicious, and beautifully presented. Our guests loved every bite, and the service was professional and friendly. Highly recommended!"
+    },
+    {
+      "name": "vishnu v",
+      "rating": 5,
+      "quote": "Ordered food for my daughter's birthday. Good food, good customer handling and an overall great experience. The rates are pretty affordable too. Highly recommended👍"
+    },
+    {
+      "name": "Mohammed Shafi P A",
+      "rating": 5,
+      "quote": "Ordered 50 Chicken Dum Biriyani From Fiestia Caterers.Biriyani was Good and Authentic Also They Delivered it on time.Owner Ashfaq is a nice person to deal with,Good Work,Keep Going..👍"
+    },
+    {
+      "name": "MUHAMMED JESSEEM P.A",
+      "rating": 5,
+      "quote": "I am a happy customer with Fiestia. I liked their all works,Decoration,serving. Especially their foods.. 👌👌 Am really happy with their treat."
+    },
+    {
+      "name": "Latheef Pa",
+      "rating": 5,
+      "quote": "Good experience and tasty food... Quality and the service was good.. Amazing briyani must try."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://fiestia-caterers-and-events-kochi.vercel.app"
+}
